@@ -1,3 +1,20 @@
+## Screenshot
+![Redux Counter App Screenshot](final-project-screenshot.png)
+
+## Technologies Used
+- React
+- Redux
+- JavaScript
+- CSS
+
+## Author
+Roger Fairley Jr.  
+University of Arizona Global Campus  
+INT304 – Website Design and Development  
+Instructor: Brian Myers  
+Date: May 2026
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
